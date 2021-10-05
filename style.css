@@ -1,0 +1,48 @@
+*{font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+body{background-color: darkgoldenrod;
+    background-image: url(https://img.freepik.com/vector-gratis/guerrero-samurai_157713-74.jpg?size=338&ext=jpg);
+}
+
+h1{
+    font-style: unset;
+}
+
+.tercerparrafo{
+    font-style: inherit;
+}
+#contenedor{
+    background-color: violet
+    width:90%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 25px;
+    padding-left: 15px;
+    padding-right:50px;
+    padding-bottom: 50px;
+}
+
+.cabecera{
+   border: dashed 2px red;
+   text-align:center
+}
+.titulo{
+    color: seagreen;
+    }
+.contenido{
+    text-align: end;}
+
+.destacado{
+    color:darkorange;
+    font-size: 1.5em;
+}
+
+
+.tercerparrafo{
+    background-color: deeppink;
+}
+
+.pie{border-top:2px solid black;
+    
+}
